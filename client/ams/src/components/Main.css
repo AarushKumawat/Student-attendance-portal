@@ -1,0 +1,43 @@
+/* Header */
+.header {
+    background-color: #007bff; /* Blue header background color */
+    color: #fff; /* White text color */
+    padding: 20px; /* Increased padding */
+    border-top-left-radius: 10px; /* Rounded top-left corner */
+    border-top-right-radius: 10px; /* Rounded top-right corner */
+    border-bottom-left-radius: 10px; /* Rounded top-left corner */
+    border-bottom-right-radius: 10px; /* Rounded top-right corner */
+  }
+  
+  /* Boxes */
+  .box {
+    background-color: #f8f9fa; /* Light gray box background color */
+    border: 1px solid #dee2e6; /* Gray border */
+    padding: 30px; /* Increased padding */
+    margin-bottom: 30px; /* Increased margin */
+    border-radius: 10px; /* Rounded corners */
+    transition: transform 0.3s ease; /* Smooth transition on hover */
+  }
+  
+  .box:hover {
+    transform: translateY(-5px); /* Lift the box on hover */
+  }
+  
+  /* Box items */
+  .boxitem {
+    font-size: 20px; /* Increased font size */
+    font-weight: bold;
+  }
+  
+  /* Link */
+  .a {
+    color: #007bff; /* Blue link color */
+    text-decoration: none; /* Remove underline */
+    transition: color 0.3s ease; /* Smooth transition on hover */
+  }
+  
+  .a:hover {
+    color: #0056b3; /* Darker blue color on hover */
+    text-decoration: underline; /* Add underline on hover */
+  }
+  

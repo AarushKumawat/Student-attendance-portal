@@ -1,0 +1,42 @@
+.form-signin {
+   
+    justify-content: center;
+    
+    height: 100vh;
+    margin-left: 440px; 
+    margin-top: 20px;
+  }
+  
+  
+
+ .login-container {
+  margin-top: 70px; 
+  width: 600px; 
+  padding: 20px;
+  border-radius: 10px;
+  background-color: rgba(243, 227, 227, 0.5); 
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+   
+  display: flex; 
+  justify-content: space-between; 
+  height: 430px;
+}
+  
+  .page-container {
+    display: flex;
+    margin-right: -24px;
+    margin-left: -240px;
+    background-image: url("pict.jpeg") !important;
+    background-size: cover !important;
+    
+    background-repeat: no-repeat; 
+    
+   
+  }
+  
+  .spacer {
+    width: 50px;
+  }
+  
+  
+  
